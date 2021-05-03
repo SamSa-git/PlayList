@@ -3,12 +3,11 @@ Boys In the Better Land- Fontaines d.c.
 Jump IN tH Fire - Harry Nulsson
 Song 3 - name3
 Song 4 - name4
-
-<<<<<<< HEAD
-
 Song 7 - name7 supposed from SamSa-test
 Song 8 - name8 supposed from SamSa-test
-=======
+
 Song 5 B relaxing - name5
 Song 6 B relaxing - name6
->>>>>>> cba68310cbcda234b28b5da311954370f8285dc0
+
+Song 9 B relaxing  - name9
+
